@@ -6,6 +6,12 @@
 
 ### Main
 
+### Skills Panel
+ - draw an hexagon
+ - draw a polygon six
+ - set/reset buttons
+ - show skill points (used on the hexa, avaiable in a counter)
+ 
 ### Duel
 
 ### Inventory
