@@ -26,7 +26,11 @@
 ### Rewards
 
 ### Settings
+ - save to the cloud to transfer
 
 ### Achievements
-
+ - add to database users stats
+ - download user stats
+ - links to googlePlay
+ 
 
