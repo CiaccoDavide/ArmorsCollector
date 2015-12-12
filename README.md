@@ -42,3 +42,6 @@
  - links to googlePlay
  
 
+### Misc
+ - add googlePlayAch&Leads
+ - add Revmob
