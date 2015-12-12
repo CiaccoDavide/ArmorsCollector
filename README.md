@@ -30,6 +30,8 @@
 ### Chest
 
 ### Rewards
+ - check if somebody challenged you, get exp+gold for your duels
+ - every 5 minutes you can be rewarded with exp or gold (save day+hour+minutes+seconds, download the current and the saved from php, calculate how many seconds...way better: calculate everything in seconds, so save seconds+minutes*60+hours*60*60+days*24*60*60, maybe using age in ms/1000 the diff must be 5*60 secs)
 
 ### Settings
  - save to the cloud to transfer
